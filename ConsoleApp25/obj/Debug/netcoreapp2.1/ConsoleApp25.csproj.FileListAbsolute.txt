@@ -1,0 +1,11 @@
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp2.1\ConsoleApp25.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp2.1\ConsoleApp25.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp2.1\ConsoleApp25.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp2.1\ConsoleApp25.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp2.1\ConsoleApp25.deps.json
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp2.1\ConsoleApp25.runtimeconfig.json
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp2.1\ConsoleApp25.runtimeconfig.dev.json
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp2.1\ConsoleApp25.dll
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp2.1\ConsoleApp25.pdb
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp2.1\ConsoleApp25.dll
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp2.1\ConsoleApp25.pdb

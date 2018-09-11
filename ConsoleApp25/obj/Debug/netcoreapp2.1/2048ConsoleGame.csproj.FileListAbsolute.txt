@@ -1,0 +1,11 @@
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp2.1\2048ConsoleGame.deps.json
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp2.1\2048ConsoleGame.runtimeconfig.json
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp2.1\2048ConsoleGame.runtimeconfig.dev.json
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp2.1\2048ConsoleGame.dll
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp2.1\2048ConsoleGame.pdb
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp2.1\2048ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp2.1\2048ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp2.1\2048ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp2.1\2048ConsoleGame.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp2.1\2048ConsoleGame.dll
+C:\Users\Jacob\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp2.1\2048ConsoleGame.pdb
